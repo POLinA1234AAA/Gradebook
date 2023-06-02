@@ -1,0 +1,79 @@
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.exe.config
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.exe
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.pdb
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Properties.Resources.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.SoftwareMDI.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csproj.GenerateResource.cache
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.exe
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.pdb
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.DisciplineForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.GroupsForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.StudentForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateDisciplineForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateGroupsForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateStudentForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Forming.StatementsForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.DiplomaSupplementForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.ExtractResultsForSemesterForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.RatingStudentsMajoringForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.ScholarshipForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.SummaryStatementGroupForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.LoginForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.SystemLogForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.UpdateUsersForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.UsersForm.resources
+F:\Дипломна\Програмний модуль автоматизації обліку успішності слухачів ВВНЗ\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csprojAssemblyReference.cache
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.exe.config
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.exe
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.pdb
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csproj.AssemblyReference.cache
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.DisciplineForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.GroupsForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.StudentForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateDisciplineForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateGroupsForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateStudentForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Forming.StatementsForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.DiplomaSupplementForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.ExtractResultsForSemesterForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.RatingStudentsMajoringForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.ScholarshipForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.SummaryStatementGroupForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.LoginForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.SystemLogForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.UpdateUsersForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.UsersForm.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Properties.Resources.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.SoftwareMDI.resources
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csproj.GenerateResource.cache
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csproj.CoreCompileInputs.cache
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.exe
+C:\Users\serg\Downloads\Telegram Desktop\Order-full-id-1511-971 (1)\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.pdb
+E:\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.exe.config
+E:\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.exe
+E:\SoftwareVVNZ\SoftwareVVNZ\bin\Debug\SoftwareVVNZ.pdb
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csproj.AssemblyReference.cache
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.DisciplineForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.GroupsForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.TeacherForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.StudentForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateDisciplineForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateGroupsForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateStudentForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Forming.StatementsForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.DiplomaSupplementForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.ExtractResultsForSemesterForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.RatingStudentsMajoringForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.ScholarshipForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Raport.SummaryStatementGroupForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.LoginForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.SystemLogForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.UpdateUsersForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Systems.UsersForm.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Properties.Resources.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.SoftwareMDI.resources
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csproj.GenerateResource.cache
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.csproj.CoreCompileInputs.cache
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.exe
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.pdb
+E:\SoftwareVVNZ\SoftwareVVNZ\obj\Debug\SoftwareVVNZ.Forms.Dictionary.UpdateTeacherForm.resources
